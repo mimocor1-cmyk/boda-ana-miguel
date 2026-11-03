@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ana y Miguel//Boda//ES
+BEGIN:VEVENT
+UID:boda-ana-miguel-20270717@example.invalid
+DTSTAMP:20261103T100000Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Boda de Ana y Miguel
+DESCRIPTION:Iglesia de San Eutropio (Paradas) y Hacienda La Natividad (Mairena del Alcor). Horario por confirmar.
+LOCATION:Iglesia de San Eutropio, Paradas, Sevilla
+END:VEVENT
+END:VCALENDAR
